@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>your name Porfolio</title>
+	<link rel="icon" type="image/ico" href="images/your-logo.ico" />
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<br>
+	<div class="wrapper">
+        
+		<section id="splash">
+			<img src="images/HBC water mark 2.png" alt="your name - logo" />
+			<h1>Just Think Digital!</h1>
+			<h4>Graphic design  /  Photo Editing  / Video Editing/ Digital Marketing</h4>
+			<p class="intro">The Digital Marketing solution that builds strong brands. Our websites have;- World Class Design
+				Dynamic Pages - Full user friendly CMS, Are
+				Mobile responsive,
+				Google Map,
+				Online form,
+				Search engine friendly,
+				Google Analytics,
+				Sitemap,
+				Social Links &
+				Unlimited emails addresses
+			 </p>
+        </section>
+        
+		<nav>
+			<a href="index.html#home"><img src="images/home iocon.gif" alt="find out more about us"><br>Home</a>
+			<a href="index.html#about"><img src="images/about us 2.gif" alt="find out more about us"><br>About</a>		
+			<a href="index.html#resume"><img src="images/resume 2.gif" alt="download my resume"><br>Resume</a>
+			<a href="index.html#projects"><img src="images/projects 2.gif" alt="check out the work in my portfolio"><br>Projects</a>
+			<a href="index.html#certificates"><img src="images/certificates.gif" alt="Check out our certification"><br>Certificates</a>
+			<a href="index.html#contact"><img src="images/contacts 2.gif" alt="send me an email"><br>Contact</a>
+		</nav>
+        
+		<p>
+			</p>
+			<h3>Tony Musuya
+				HBC’s Head Customer Relations Officer (CRO)	
+				
+				</h3>
+			<a href="mailto:your email address">info@homebasedcoaching.org</a>
+        <a href="mailto:your email address">tonymusuya@gmail.com </a>
+	<a href="mailto:your email address"> Cell Phone 0722 930 315</a>
+</section>
+	</div>
+	<section id="main-footer">
+	    <p> Designed and Maintained by HBC.
+		<div>Copyright &copy; 2018, HBC</div>
+		<style="font-family:calibri; font-size:10px; color: yellow;"></style>
+		</p>
+	</section>
+</body>
+</html>
